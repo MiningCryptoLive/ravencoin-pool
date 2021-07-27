@@ -6,14 +6,7 @@ Highly Efficient mining pool for Ravencoin based on KawPoW algo!
 #### Home<br />
 ![Home](https://github.com/Racing1/ravencoin-pool/blob/main/docs/frontend/home.png)
 
-#### Pool Stats<br />
-![Pool Stats](https://github.com/Racing1/ravencoin-pool/blob/main/docs/frontend//poolstats.png)<br /><br />
 
-#### Miner Stats<br />
-![Miner Stats](https://github.com/Racing1/ravencoin-pool/blob/main/docs/frontend/minerstats.png)<br /><br />
-
-#### Payments<br />
-![Payments](https://github.com/Racing1/ravencoin-pool/blob/main/docs/frontend/payments.png)<br /><br />
 
 -------
 ### Node Open Mining Portal consists of 3 main modules:
