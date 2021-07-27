@@ -14,12 +14,12 @@
         "Splendidcoin",
         "KawPoW"
     ],
-    "homepage": "https://github.com/Satoex/kawpow-pool",
+    "homepage": "https://github.com/Racing1/ravencoin-pool",
     "bugs": {
-        "url": "https://github.com/Satoex/kawpow-pool/issues"
+        "url": "https://github.com/Racing1/ravencoin-pool/issues"
     },
     "license": "GPL-2.0",
-    "author": "Dirty Harry",
+    "author": "PhoenixMax",
     "contributors": [
         "leshacat",
         "devnulled",
