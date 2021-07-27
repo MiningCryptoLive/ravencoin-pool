@@ -88,7 +88,7 @@ Other helpfull commands.
 
 Change "stratumHost": "192.168.0.200", to your IP or DNS in file config.json:
 
-    cd ~/kawpow-pool
+    cd ~/ravencoin-pool
     nano config.json
 
 ```javascript
