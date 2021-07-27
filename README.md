@@ -1,4 +1,4 @@
-# NOMP KawPoW Algorithm Pool
+# KawPoW Algorithm Pool
 Highly Efficient mining pool for Coins based on KawPoW algo!
 
 -------
