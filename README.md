@@ -80,7 +80,7 @@ Other helpfull commands.
     cd ~
     git config --global http.https://gopkg.in.followRedirects true
     git clone https://github.com/Racing1/ravencoin-pool.git
-    cd kawpow-pool/
+    cd ravencoin-pool/
     ./install.sh
 
 -------
