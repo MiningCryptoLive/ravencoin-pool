@@ -1,5 +1,5 @@
 {
-    "poolname": "KawPoW Coins Pool",
+    "poolname": "PhoenixMax Raven Pool",
     
     "devmode": false,
     "devmodePayMinimim": 0.25,
@@ -15,10 +15,10 @@
     "poollogo": "/website/static/img/poollogo.png",
     
     "discord": "Join our #mining channel on Discord: ",
-    "discordlink": "https://discord.gg/vzcbVNW",
+    "discordlink": "https://discord.gg/",
     
-    "pagetitle": "KawPoW Algorithm Pool - 0.5% Fees Promo - Run by professionals",
-    "pageauthor": "Dirty Harry",
+    "pagetitle": "PhoenixMax Raven Pool - 0.5% Fee - Run by professionals",
+    "pageauthor": "PhoenixMax",
     "pagedesc": "A reliable, low fee, easy to use mining pool for KawPoW algorithm coins! Get started mining today!",
     "pagekeywds": "GPU,CPU,Hash,Hashrate,Cryptocurrency,Crypto,Mining,Pool,Ravencoin,Zelantus,Sato,Easy,Simple,How,To",
 
@@ -28,7 +28,7 @@
 
     "logger" : {
         "level" : "debug",
-        "file" : "/home/pool/nomp-kawpow-pool/logs/nomp_debug.log"
+        "file" : "/home/pool/kawpow-pool/logs/kawpow_debug.log"
     },
 
     "cliHost": "127.0.0.1",
@@ -66,9 +66,9 @@
         "host": "0.0.0.0",
         "port": 80,
         "sslport": 443,
-        "sslkey": "/home/pool/nomp-kawpow-pool/certs/privkey.pem",
-        "sslcert": "/home/pool/nomp-kawpow-pool/certs/fullchain.pem",
-        "stratumHost": "192.168.0.200",
+        "sslkey": "/home/pool/kawpow-pool/certs/privkey.pem",
+        "sslcert": "/home/pool/kawpow-pool/certs/fullchain.pem",
+        "stratumHost": "raven.phoenixmax.org",
         "stats": {
             "updateInterval": 30,
             "historicalRetention": 28800,
