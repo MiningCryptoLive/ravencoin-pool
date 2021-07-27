@@ -79,7 +79,7 @@ Other helpfull commands.
     sudo apt install git -y
     cd ~
     git config --global http.https://gopkg.in.followRedirects true
-    git clone https://github.com/Satoex/kawpow-pool.git
+    git clone https://github.com/Racing1/ravencoin-pool.git
     cd kawpow-pool/
     ./install.sh
 
