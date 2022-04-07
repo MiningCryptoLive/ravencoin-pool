@@ -14,12 +14,12 @@
         "Splendidcoin",
         "KawPoW"
     ],
-    "homepage": "https://github.com/Racing1/ravencoin-pool",
+    "homepage": "https://github.com/MiningCryptoLive/ravencoin-pool",
     "bugs": {
-        "url": "https://github.com/Racing1/ravencoin-pool/issues"
+        "url": "https://github.com/MiningCryptoLiveravencoin-pool/issues"
     },
     "license": "GPL-2.0",
-    "author": "PhoenixMax",
+    "author": "MCL",
     "contributors": [
         "leshacat",
         "devnulled",
