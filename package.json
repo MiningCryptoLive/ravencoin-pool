@@ -63,6 +63,7 @@
         "ls": "^0.2.1",
         "mime-types": "^2.1.21",
         "moment": "^2.23.0",
+        "merkle-bitcoin": "https://github.com/DirtyHarryDev/merkle-bitcoin.git"
         "multi-hashing": "git+https://github.com/MiningCryptoLive/phoenixmax-ravencoin-hashing.git",
         "mysql": "^2.16.0",
         "newrelic": "^5.1.0",
